@@ -1,22 +1,22 @@
-#include<ios.stream>
-using namespacestd;
+#include<iostream>
+using namespace std;
 int main()
 {
 	cout<< "choice";
 	cin>> "ch";
-	switch "ch";
+	switch (ch);
 	
 	{
-		case1:
+		case 1:
 			printlist()	;
 			break;
-	    case2:
+	    case 2:
 		    insert(s,m);
 			break;
-		case3:
+		case 3:
 		    delete(s,m);
 			break;
-		case4:
+		case 4:
 		    exit();
 	}
 	
